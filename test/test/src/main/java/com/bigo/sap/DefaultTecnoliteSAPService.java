@@ -24,7 +24,7 @@ import com.sap.conn.jco.JCoTable;
 import com.sap.conn.jco.ext.DestinationDataProvider;
 
 /**
- * @author Ramiro
+ * @author Gabriel Gonzalez
  *
  */
 public class DefaultTecnoliteSAPService {
